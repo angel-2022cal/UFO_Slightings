@@ -1,3 +1,3 @@
 # UFO_Slightings
 
-![](images/readme_picture.png)
+![](image/readme_picture.png)
